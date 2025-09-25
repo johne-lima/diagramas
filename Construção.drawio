@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Página-1" id="iFjH1CZM4VmeCwgzAge4">
-    <mxGraphModel>
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Trpjs8Z9w4FsKIzxUrGo-1" target="Trpjs8Z9w4FsKIzxUrGo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="412" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Trpjs8Z9w4FsKIzxUrGo-2" target="Trpjs8Z9w4FsKIzxUrGo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Trpjs8Z9w4FsKIzxUrGo-2" target="Trpjs8Z9w4FsKIzxUrGo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-2" value="Atividade: Inplementação das funcionalidades&lt;div&gt;Responsável: Desenvolvedores&lt;/div&gt;&lt;div&gt;Artefatos: Código-fonte&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="254" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Trpjs8Z9w4FsKIzxUrGo-4" target="Trpjs8Z9w4FsKIzxUrGo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-4" value="Atividade: Testes unitários&lt;div&gt;Resposável: QA/Testadores&lt;/div&gt;&lt;div&gt;Artefatos: Casos de Teste, Relatório de Testes Unitários&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="300" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Trpjs8Z9w4FsKIzxUrGo-6" target="Trpjs8Z9w4FsKIzxUrGo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-6" value="Atividade: Integração dos módulos&lt;div&gt;Resposável: DevOps / Engenheiro de Integração&lt;/div&gt;&lt;div&gt;Artefatos: Builds Integrados&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-8" value="Atividade: Testes de sistema&lt;div&gt;Resposável: Equipe de QA&lt;/div&gt;&lt;div&gt;Artefatos: Relatórios de Testes de Sistema&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="440" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Trpjs8Z9w4FsKIzxUrGo-10" value="Atividade: Revisão de código&lt;div&gt;Resposável: Desenvolvedores Sêniores&lt;/div&gt;&lt;div&gt;Artefatos: Relatórios de Revisão, Código Melhorado&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="440" width="275" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
