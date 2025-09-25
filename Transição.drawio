@@ -1,9 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Página-1" id="ZqTymUHClS5npT-gudqR">
-    <mxGraphModel>
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_8L13hQ706kF8y0waWMH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_8L13hQ706kF8y0waWMH-1" target="_8L13hQ706kF8y0waWMH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="389" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_8L13hQ706kF8y0waWMH-2" target="_8L13hQ706kF8y0waWMH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_8L13hQ706kF8y0waWMH-2" target="_8L13hQ706kF8y0waWMH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-2" value="Atividade: Treinamento de usuários&lt;div&gt;Resposável: Instrutor de TI/ Analista de Suporte&lt;/div&gt;&lt;div&gt;Artefatos: Manual do Usuário, Guia de Treinamento&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="170" width="286" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_8L13hQ706kF8y0waWMH-4" target="_8L13hQ706kF8y0waWMH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-4" value="Atividade: Implantação em produção&lt;div&gt;Resposável: DevOps&lt;/div&gt;&lt;div&gt;Artefatos: Versão em Produção&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_8L13hQ706kF8y0waWMH-6" target="_8L13hQ706kF8y0waWMH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="405" />
+              <mxPoint x="616" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-6" value="Atividade: Suporte inicial&lt;div&gt;Resposável: Equipe de Suporte&lt;/div&gt;&lt;div&gt;Artefatos: Relatórios de Ocorrência&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-8" value="Atividade: Aceite final do cliente&lt;div&gt;Resposável: Stakeholders&lt;/div&gt;&lt;div&gt;Artefatos: Documento de Aceite Final&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="184.5" y="440" width="209" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_8L13hQ706kF8y0waWMH-10" value="Atividade: Avaliação pós- implatação&lt;div&gt;Responsáveis: Gerente de Projetos, Equipe de Desenvolvimento&lt;/div&gt;&lt;div&gt;Artefatos: Relatório de Lições Aprendidas&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="351" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
